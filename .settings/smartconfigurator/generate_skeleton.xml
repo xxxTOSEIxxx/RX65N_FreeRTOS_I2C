@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<frtos_skeleton>
+    <generateSettings>
+        <row id="TASKOBJECTLINK1" oldValue="Task_ACM1602"/>
+    </generateSettings>
+</frtos_skeleton>
